@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "username": "badio",
+      "email": "badboy@gmail.com",
+      "password": "azertyui",
+      "confirmPassword": "azertyui",
+      "id": 1
+    },
+    {
+      "username": "vamos",
+      "email": "badio@gmail.com",
+      "password": "abcdefgh",
+      "confirmPassword": "abcdefgh",
+      "id": 2
+    }
+  ]
+}
